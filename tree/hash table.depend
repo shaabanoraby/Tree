@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1708462807 source:d:\algorithms\hash table\hash table\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+
